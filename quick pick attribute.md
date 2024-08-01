@@ -11,6 +11,7 @@ Label: Quick pick item label
 Value: Quick pick item value
 
 In Attribute we've used class as:
+    
     .quick-pick-button {
         display: inline-block;
         padding: 6px 20px;
